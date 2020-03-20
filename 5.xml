@@ -9,7 +9,7 @@ public class MyCustomScript
 {
     static MyCustomScript()
     {
-        1
+        12
     }
 }
 </Script>
